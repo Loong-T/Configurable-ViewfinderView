@@ -1,4 +1,4 @@
-package in.nerd_is.layoutableviewfinder;
+package in.nerd_is.configurableviewfinder;
 
 import android.annotation.TargetApi;
 import android.content.Context;

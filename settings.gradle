@@ -1,1 +1,1 @@
-include ':app', ':layoutableviewfinder'
+include ':app', ':configurableviewfinder'

@@ -19,7 +19,7 @@ import com.journeyapps.barcodescanner.BarcodeView;
 
 import java.util.List;
 
-import in.nerd_is.layoutableviewfinder.ViewfinderView;
+import in.nerd_is.configurableviewfinder.ViewfinderView;
 
 public class MainActivity extends AppCompatActivity {
 

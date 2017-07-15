@@ -13,7 +13,7 @@
         app:zxing_framing_rect_width="220dp"
         app:zxing_framing_rect_height="220dp" />
 
-    <in.nerd_is.layoutableviewfinder.ViewfinderView
+    <in.nerd_is.configurableviewfinder.ViewfinderView
         android:id="@+id/viewfinder_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

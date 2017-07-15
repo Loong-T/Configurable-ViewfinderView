@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="in.nerd_is.layoutableviewfinder">
+    package="in.nerd_is.configurableviewfinder">
 
     <uses-permission android:name="android.permission.CAMERA" />
 
