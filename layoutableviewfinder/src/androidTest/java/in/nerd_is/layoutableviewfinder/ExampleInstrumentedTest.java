@@ -1,4 +1,4 @@
-package in.nerd_is.sample;
+package in.nerd_is.layoutableviewfinder;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("in.nerd_is.sample", appContext.getPackageName());
+        assertEquals("in.nerd_is.layoutableviewfinder.test", appContext.getPackageName());
     }
 }

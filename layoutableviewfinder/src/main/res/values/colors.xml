@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vfv_possible_result_points">#C0FFC107</color>
+    <color name="vfv_result_view_color">#b0000000</color>
+    <color name="vfv_viewfinder_laser">#F44336</color>
+    <color name="vfv_viewfinder_mask">#88000000</color>
+</resources>

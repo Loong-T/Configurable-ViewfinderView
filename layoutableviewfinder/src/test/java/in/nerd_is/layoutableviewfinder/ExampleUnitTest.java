@@ -1,4 +1,4 @@
-package in.nerd_is.sample;
+package in.nerd_is.layoutableviewfinder;
 
 import org.junit.Test;
 

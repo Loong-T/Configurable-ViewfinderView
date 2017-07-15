@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewfinderView">
+        <attr name="vfv_possibleResultPointsColor" format="color"/>
+        <attr name="vfv_resultViewColor" format="color"/>
+        <attr name="vfv_laserColor" format="color"/>
+        <attr name="vfv_maskColor" format="color"/>
+        <attr name="vfv_frameGravity" format="enum">
+            <enum name="center" value="0" />
+            <enum name="centerHorizontal" value="1" />
+            <enum name="centerVertical" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
